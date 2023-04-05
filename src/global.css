@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 
@@ -7,6 +6,11 @@
   font-family: "Good Times";
   src: url("/public/good timing bd.otf");
   font-weight: 400;
+}
+@font-face {
+  font-family: "Good Times";
+  src: url("/public/good timing bd.otf");
+  font-weight: 800;
 }
 @font-face {
   font-family: "Good Timing";
@@ -21,10 +25,9 @@ body {
 :root {
   /* fonts */
   --paragraph-bold-body-16: Roboto;
-  --heading-bold-h1-72: "Open Sans";
+  --heading-bold-h1-72: "Good Times";
   --heading-reguler-h6-16: "Good Timing";
   --font-noto-sans-jp: "Noto Sans JP";
-  --heading-reguler-h5-24: "Good Times";
 
   /* font sizes */
   --paragraph-bold-body-16-size: 20px;

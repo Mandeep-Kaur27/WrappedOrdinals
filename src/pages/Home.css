@@ -1,4 +1,4 @@
-.copyright2023Wrapped {
+.copyright-2023-wrapped {
   position: absolute;
   width: 31.06%;
   top: 91.03%;
@@ -9,7 +9,7 @@
 }
 .discord,
 .instagram,
-.socialMedia1,
+.social-media1,
 .twitter {
   position: absolute;
   width: 22.83%;
@@ -20,16 +20,16 @@
 }
 .discord,
 .instagram,
-.socialMedia1 {
+.social-media1 {
   width: 33.33%;
   top: 58.97%;
 }
 .discord,
-.socialMedia1 {
+.social-media1 {
   width: 31.96%;
   top: 35.9%;
 }
-.socialMedia1 {
+.social-media1 {
   width: 100%;
   top: 0;
   font-size: var(--heading-bold-h5-24-size);
@@ -37,7 +37,7 @@
   font-weight: 800;
   font-family: var(--heading-bold-h1-72);
 }
-.socialMedia {
+.social-media {
   position: absolute;
   height: 50%;
   width: 17%;
@@ -46,7 +46,7 @@
   bottom: 50%;
   left: 83%;
 }
-.becomeAPartner {
+.become-a-partner {
   position: absolute;
   width: 79.19%;
   top: 85.42%;
@@ -58,7 +58,7 @@
   position: relative;
   line-height: 28px;
 }
-.faqWrapper {
+.faq-wrapper {
   position: absolute;
   top: 118px;
   left: 0;
@@ -102,10 +102,10 @@
   bottom: 38.46%;
   left: 64.84%;
 }
-.aboutUs,
-.privacyPolicy,
+.about-us,
+.privacy-policy,
 .support,
-.termsOfService {
+.terms-of-service {
   position: absolute;
   width: 29.01%;
   top: 85.42%;
@@ -113,19 +113,19 @@
   line-height: 28px;
   display: inline-block;
 }
-.aboutUs,
-.privacyPolicy,
-.termsOfService {
+.about-us,
+.privacy-policy,
+.terms-of-service {
   width: 99.83%;
   top: 66.67%;
   left: 0.17%;
 }
-.aboutUs,
-.termsOfService {
+.about-us,
+.terms-of-service {
   width: 75.13%;
   top: 47.92%;
 }
-.aboutUs {
+.about-us {
   width: 33.59%;
   top: 29.17%;
   left: 0;
@@ -151,7 +151,7 @@
   bottom: 38.46%;
   left: 47.2%;
 }
-.wrapYourBtc {
+.wrap-your-btc {
   position: absolute;
   width: 95.26%;
   top: 84.09%;
@@ -159,7 +159,7 @@
   line-height: 28px;
   display: inline-block;
 }
-.logo1Icon {
+.logo-1-icon {
   position: absolute;
   height: 84.94%;
   width: 94.31%;
@@ -189,7 +189,7 @@
   right: 0;
   bottom: 0;
 }
-.footerWrapper {
+.footer-wrapper {
   position: absolute;
   top: 7293px;
   left: 111px;
@@ -214,7 +214,7 @@
   position: relative;
   font-size: var(--heading-bold-h5-24-size);
   line-height: 38px;
-  font-family: var(--heading-reguler-h5-24);
+  font-family: var(--heading-bold-h1-72);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-align: left;
@@ -263,8 +263,8 @@
   bottom: 16.23%;
   left: 17.29%;
 }
-.loremIpsumDolor,
-.stayInThe {
+.lorem-ipsum-dolor,
+.stay-in-the {
   position: absolute;
   width: 66.23%;
   top: 44.74%;
@@ -272,7 +272,7 @@
   line-height: 28px;
   display: inline-block;
 }
-.stayInThe {
+.stay-in-the {
   width: 71.43%;
   top: 17.54%;
   left: 14.29%;
@@ -288,7 +288,7 @@
   height: 456px;
   flex-shrink: 0;
 }
-.ctaWrapper {
+.cta-wrapper {
   position: absolute;
   top: 6677px;
   left: 104px;
@@ -342,7 +342,7 @@
   bottom: 23.48%;
   left: 4%;
 }
-.productUpdateActivity {
+.product-update-activity {
   position: absolute;
   height: 14.64%;
   width: 86%;
@@ -357,7 +357,7 @@
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
-.imagePlaceholder {
+.image-placeholder {
   position: absolute;
   height: 50.83%;
   width: 92%;
@@ -368,7 +368,7 @@
   border-radius: var(--br-base);
   background-color: var(--text-color-in-field);
 }
-.nft21 {
+.nft-21 {
   position: absolute;
   height: 49.75%;
   width: 31.87%;
@@ -377,7 +377,7 @@
   bottom: -4.27%;
   left: 66.29%;
 }
-.cameronWilliamson {
+.cameron-williamson {
   position: absolute;
   height: 100%;
   width: 83.84%;
@@ -386,7 +386,7 @@
   line-height: 32px;
   display: inline-block;
 }
-.imagePlaceholderIcon {
+.image-placeholder-icon {
   position: absolute;
   height: 100%;
   width: 12.2%;
@@ -408,7 +408,7 @@
   left: 4%;
   font-size: var(--paragraph-bold-body-16-size);
 }
-.nft20 {
+.nft-20 {
   position: absolute;
   height: 49.75%;
   width: 31.87%;
@@ -418,11 +418,11 @@
   left: 33.15%;
 }
 .button4,
-.nft17 {
+.nft-17 {
   position: absolute;
   left: 0;
 }
-.nft17 {
+.nft-17 {
   height: 49.75%;
   width: 31.87%;
   top: 54.52%;
@@ -443,7 +443,7 @@
   justify-content: flex-start;
 }
 .container1,
-.nft23 {
+.nft-23 {
   position: absolute;
   height: 46.99%;
   width: 31.87%;
@@ -462,8 +462,8 @@
   border-radius: var(--br-base);
   background-color: var(--color);
 }
-.cameronWilliamson3,
-.loremIpsumDolor1 {
+.cameron-williamson3,
+.lorem-ipsum-dolor1 {
   position: absolute;
   height: 15.47%;
   width: 94.12%;
@@ -472,14 +472,14 @@
   line-height: 28px;
   display: inline-block;
 }
-.cameronWilliamson3 {
+.cameron-williamson3 {
   height: 100%;
   width: 82.3%;
   top: 0;
   left: 17.7%;
   line-height: 32px;
 }
-.imagePlaceholderIcon3 {
+.image-placeholder-icon3 {
   position: absolute;
   height: 100%;
   width: 14.16%;
@@ -499,13 +499,13 @@
   height: 36.03px;
   font-size: var(--paragraph-bold-body-16-size);
 }
-.productUpdatePersonalized {
+.product-update-personalized {
   font-weight: 800;
 }
-.productUpdate {
+.product-update {
   font-family: var(--font-noto-sans-jp);
 }
-.productUpdatePersonalizedContainer {
+.product-update-personalized-container {
   position: absolute;
   height: 8.46%;
   width: 94.34%;
@@ -519,7 +519,7 @@
   display: inline-block;
   font-family: var(--heading-bold-h1-72);
 }
-.imagePlaceholder4 {
+.image-placeholder4 {
   position: absolute;
   height: 56.35%;
   width: 96.08%;
@@ -530,7 +530,7 @@
   border-radius: var(--br-base);
   background-color: var(--text-color-in-field);
 }
-.article1 {
+.article-1 {
   position: absolute;
   top: 83.32px;
   left: 0;
@@ -561,7 +561,7 @@
   justify-content: flex-start;
   font-size: var(--paragraph-bold-body-16-size);
 }
-.popularArticles1 {
+.popular-articles1 {
   position: absolute;
   height: 4.02%;
   width: 48.61%;
@@ -574,7 +574,7 @@
   display: inline-block;
   text-shadow: 0 4px 4px rgba(65, 186, 254, 0.25);
 }
-.popularArticles {
+.popular-articles {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -584,14 +584,14 @@
   left: 0;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.popularArticlesWrapper {
+.popular-articles-wrapper {
   position: absolute;
   top: 4925px;
   left: 104px;
   width: 1258px;
   height: 1661px;
 }
-.bessieCooper,
+.bessie-cooper,
 .bessiecr {
   position: absolute;
   left: 43.66%;
@@ -602,12 +602,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.bessieCooper {
+.bessie-cooper {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon4 {
+.image-placeholder-icon4 {
   position: absolute;
   height: 87.5%;
   width: 20.9%;
@@ -619,7 +619,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist9,
+.artist-9,
 .div {
   position: absolute;
 }
@@ -631,7 +631,7 @@
   font-weight: 800;
   font-family: var(--heading-bold-h1-72);
 }
-.artist9 {
+.artist-9 {
   height: 17.02%;
   width: 21.75%;
   top: 82.98%;
@@ -639,7 +639,7 @@
   bottom: 0;
   left: 74.03%;
 }
-.jacobJones,
+.jacob-jones,
 .jacobjs {
   position: absolute;
   left: 46.61%;
@@ -650,12 +650,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.jacobJones {
+.jacob-jones {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon5 {
+.image-placeholder-icon5 {
   position: absolute;
   height: 87.5%;
   width: 22.31%;
@@ -667,7 +667,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist8 {
+.artist-8 {
   position: absolute;
   height: 17.02%;
   width: 20.37%;
@@ -676,7 +676,7 @@
   bottom: 25.53%;
   left: 74.03%;
 }
-.estherHoward,
+.esther-howard,
 .estherh {
   position: absolute;
   left: 42.55%;
@@ -687,12 +687,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.estherHoward {
+.esther-howard {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon6 {
+.image-placeholder-icon6 {
   position: absolute;
   height: 87.5%;
   width: 20.36%;
@@ -704,7 +704,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist7 {
+.artist-7 {
   position: absolute;
   height: 17.02%;
   width: 22.32%;
@@ -714,7 +714,7 @@
   left: 74.03%;
 }
 .cameron,
-.cameronWilliamson4 {
+.cameron-williamson4 {
   position: absolute;
   left: 35.67%;
   line-height: 24px;
@@ -724,12 +724,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.cameronWilliamson4 {
+.cameron-williamson4 {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon7 {
+.image-placeholder-icon7 {
   position: absolute;
   height: 87.5%;
   width: 17.07%;
@@ -741,7 +741,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist6 {
+.artist-6 {
   position: absolute;
   height: 17.02%;
   width: 26.62%;
@@ -751,7 +751,7 @@
   left: 36.2%;
 }
 .jenny,
-.jennyWilson {
+.jenny-wilson {
   position: absolute;
   left: 45.53%;
   line-height: 24px;
@@ -761,12 +761,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.jennyWilson {
+.jenny-wilson {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon8 {
+.image-placeholder-icon8 {
   position: absolute;
   height: 87.5%;
   width: 21.79%;
@@ -778,7 +778,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist5 {
+.artist-5 {
   position: absolute;
   height: 17.02%;
   width: 20.86%;
@@ -787,7 +787,7 @@
   bottom: 25.53%;
   left: 36.2%;
 }
-.janeCooper,
+.jane-cooper,
 .janec {
   position: absolute;
   left: 46.8%;
@@ -798,12 +798,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.janeCooper {
+.jane-cooper {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon9 {
+.image-placeholder-icon9 {
   position: absolute;
   height: 87.5%;
   width: 22.4%;
@@ -815,7 +815,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist4 {
+.artist-4 {
   position: absolute;
   height: 17.02%;
   width: 20.29%;
@@ -825,7 +825,7 @@
   left: 36.2%;
 }
 .brookly,
-.brooklynSimmons {
+.brooklyn-simmons {
   position: absolute;
   left: 37.14%;
   line-height: 24px;
@@ -835,12 +835,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.brooklynSimmons {
+.brooklyn-simmons {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon10 {
+.image-placeholder-icon10 {
   position: absolute;
   height: 87.5%;
   width: 17.78%;
@@ -852,7 +852,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist3 {
+.artist-3 {
   position: absolute;
   height: 17.02%;
   width: 25.57%;
@@ -861,7 +861,7 @@
   bottom: 0;
   left: 0;
 }
-.marvinMckinney,
+.marvin-mckinney,
 .marvinwoy {
   position: absolute;
   left: 38.74%;
@@ -872,12 +872,12 @@
   font-weight: 500;
   color: var(--text-color-in-field);
 }
-.marvinMckinney {
+.marvin-mckinney {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
 }
-.imagePlaceholderIcon11 {
+.image-placeholder-icon11 {
   position: absolute;
   height: 87.5%;
   width: 18.54%;
@@ -889,7 +889,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist2 {
+.artist-2 {
   position: absolute;
   height: 17.02%;
   width: 24.51%;
@@ -898,7 +898,7 @@
   bottom: 25.53%;
   left: 0;
 }
-.arleneMccoy,
+.arlene-mccoy,
 .arlenemc {
   position: absolute;
   left: 41.9%;
@@ -908,13 +908,13 @@
   top: 62.5%;
   font-weight: 500;
 }
-.arleneMccoy {
+.arlene-mccoy {
   top: 0;
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--heading-reguler-h6-16);
   color: var(--text-color-white);
 }
-.imagePlaceholderIcon12 {
+.image-placeholder-icon12 {
   position: absolute;
   height: 87.5%;
   width: 22.13%;
@@ -926,7 +926,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.artist1,
+.artist-1,
 .div8 {
   position: absolute;
 }
@@ -939,7 +939,7 @@
   font-family: var(--heading-bold-h1-72);
   color: var(--bright-blue);
 }
-.artist1 {
+.artist-1 {
   height: 17.02%;
   width: 20.54%;
   top: 31.91%;
@@ -948,7 +948,7 @@
   left: 0.89%;
   color: var(--text-color-in-field);
 }
-.arrowRightChild {
+.arrow-right-child {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -959,7 +959,7 @@
   border-radius: var(--br-6xs);
   background-color: var(--color);
 }
-.arrowsArrowRight {
+.arrows-arrow-right {
   position: absolute;
   height: 66.67%;
   width: 66.67%;
@@ -971,8 +971,8 @@
   overflow: hidden;
   max-height: 100%;
 }
-.arrowLeftChild,
-.arrowRight {
+.arrow-left-child,
+.arrow-right {
   position: absolute;
   height: 12.77%;
   width: 3.9%;
@@ -981,7 +981,7 @@
   bottom: 85.11%;
   left: 96.1%;
 }
-.arrowLeftChild {
+.arrow-left-child {
   height: 100%;
   width: 100%;
   top: 0;
@@ -992,7 +992,7 @@
   transform: rotate(180deg);
   transform-origin: 0 0;
 }
-.arrowsArrowRight1 {
+.arrows-arrow-right1 {
   position: absolute;
   height: 66.67%;
   width: 66.67%;
@@ -1004,7 +1004,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.arrowLeft {
+.arrow-left {
   position: absolute;
   height: 12.77%;
   width: 3.9%;
@@ -1015,7 +1015,7 @@
   transform: rotate(180deg);
   transform-origin: 0 0;
 }
-.popularArtists {
+.popular-artists {
   position: absolute;
   top: 0;
   left: 0;
@@ -1024,13 +1024,13 @@
   font-weight: 800;
   font-family: var(--heading-bold-h1-72);
 }
-.popularArtist {
+.popular-artist {
   position: relative;
   width: 1232px;
   height: 376px;
   flex-shrink: 0;
 }
-.popularArtistWrapper {
+.popular-artist-wrapper {
   position: absolute;
   top: 4389px;
   left: 104px;
@@ -1041,7 +1041,7 @@
   justify-content: center;
   font-size: var(--paragraph-bold-caption-14-size);
 }
-.placeBid {
+.place-bid {
   position: relative;
   line-height: 24px;
   font-weight: 800;
@@ -1079,7 +1079,7 @@
   font-family: var(--heading-reguler-h6-16);
   color: var(--text-color-white);
 }
-.endIn {
+.end-in {
   position: absolute;
   height: 8.36%;
   width: 30.5%;
@@ -1088,7 +1088,7 @@
   bottom: 17.8%;
   left: 59.25%;
 }
-.currentBid1,
+.current-bid1,
 .eth {
   position: absolute;
   height: 42.86%;
@@ -1098,14 +1098,14 @@
   line-height: 32px;
   display: inline-block;
 }
-.currentBid1 {
+.current-bid1 {
   width: 100%;
   top: 0;
   line-height: 24px;
   font-family: var(--heading-reguler-h6-16);
   color: var(--text-color-white);
 }
-.currentBid {
+.current-bid {
   position: absolute;
   height: 8.31%;
   width: 33%;
@@ -1114,7 +1114,7 @@
   bottom: 17.8%;
   left: 4%;
 }
-.cameronWilliamson5 {
+.cameron-williamson5 {
   position: absolute;
   height: 75%;
   width: 76.61%;
@@ -1123,7 +1123,7 @@
   line-height: 24px;
   display: inline-block;
 }
-.imagePlaceholderIcon13 {
+.image-placeholder-icon13 {
   position: absolute;
   height: 100%;
   width: 18.71%;
@@ -1161,7 +1161,7 @@
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
-.imagePlaceholder5 {
+.image-placeholder5 {
   position: absolute;
   height: 52.52%;
   width: 92%;
@@ -1172,9 +1172,9 @@
   border-radius: var(--br-base);
   background-color: var(--text-color-in-field);
 }
-.nft16,
-.nft171,
-.nft18 {
+.nft-16,
+.nft-171,
+.nft-18 {
   position: absolute;
   height: 30.33%;
   width: 32.47%;
@@ -1183,22 +1183,22 @@
   bottom: 0;
   left: 67.53%;
 }
-.nft16,
-.nft171 {
+.nft-16,
+.nft-171 {
   right: 33.77%;
   left: 33.77%;
 }
-.nft16 {
+.nft-16 {
   right: 67.53%;
   left: 0;
 }
 .nft,
-.nft10,
-.nft11,
-.nft12,
-.nft13,
-.nft14,
-.nft15 {
+.nft-10,
+.nft-11,
+.nft-12,
+.nft-13,
+.nft-14,
+.nft-15 {
   position: absolute;
   height: 30.33%;
   width: 32.47%;
@@ -1208,39 +1208,39 @@
   left: 67.53%;
 }
 .nft,
-.nft10,
-.nft11,
-.nft12,
-.nft13,
-.nft14 {
+.nft-10,
+.nft-11,
+.nft-12,
+.nft-13,
+.nft-14 {
   right: 33.77%;
   left: 33.77%;
 }
 .nft,
-.nft10,
-.nft11,
-.nft12,
-.nft13 {
+.nft-10,
+.nft-11,
+.nft-12,
+.nft-13 {
   right: 67.53%;
   left: 0;
 }
 .nft,
-.nft10,
-.nft11,
-.nft12 {
+.nft-10,
+.nft-11,
+.nft-12 {
   top: 0;
   right: 0;
   bottom: 69.67%;
   left: 67.53%;
 }
 .nft,
-.nft10,
-.nft11 {
+.nft-10,
+.nft-11 {
   right: 33.77%;
   left: 33.77%;
 }
 .nft,
-.nft10 {
+.nft-10 {
   right: 67.53%;
   left: 0;
 }
@@ -1283,13 +1283,13 @@
   bottom: 33.33%;
   left: 25%;
 }
-.combinedShape {
+.combined-shape {
   position: relative;
   background-color: var(--primary-10);
   width: 16px;
   height: 12px;
 }
-.uiFilter {
+.ui-filter {
   position: relative;
   width: 24px;
   height: 24px;
@@ -1401,7 +1401,7 @@
   font-size: var(--paragraph-reguler-body-16-size);
   color: var(--primary-10);
 }
-.exploreArt1 {
+.explore-art1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -1412,14 +1412,14 @@
   color: var(--text-color-white);
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.exploreArt {
+.explore-art {
   position: relative;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   width: 1232px;
   height: 2220px;
   flex-shrink: 0;
 }
-.exploreArtWrapper {
+.explore-art-wrapper {
   position: absolute;
   top: 1943px;
   left: 104px;
@@ -1461,8 +1461,8 @@
   font-size: var(--paragraph-reguler-body-16-size);
   font-family: var(--heading-bold-h1-72);
 }
-.endsIn,
-.h12m32s {
+.ends-in,
+.h-12m-32s {
   position: absolute;
   height: 42.61%;
   width: 100%;
@@ -1471,7 +1471,7 @@
   line-height: 32px;
   display: inline-block;
 }
-.endsIn {
+.ends-in {
   height: 43.32%;
   width: 74.59%;
   top: 0;
@@ -1479,10 +1479,10 @@
   font-family: var(--heading-reguler-h6-16);
   color: var(--text-color-in-field);
 }
-.arrowRightItem,
-.nft1,
-.nft6,
-.nft7 {
+.arrow-right-item,
+.nft-1,
+.nft-6,
+.nft-7 {
   position: absolute;
   height: 84.89%;
   width: 32.47%;
@@ -1491,18 +1491,18 @@
   bottom: 0;
   left: 67.53%;
 }
-.arrowRightItem,
-.nft1,
-.nft6 {
+.arrow-right-item,
+.nft-1,
+.nft-6 {
   right: 33.77%;
   left: 33.77%;
 }
-.arrowRightItem,
-.nft1 {
+.arrow-right-item,
+.nft-1 {
   right: 67.53%;
   left: 0;
 }
-.arrowRightItem {
+.arrow-right-item {
   height: 100%;
   width: 100%;
   top: 0;
@@ -1510,7 +1510,7 @@
   border-radius: var(--br-6xs);
   background-color: var(--primary-50);
 }
-.arrowRight1 {
+.arrow-right1 {
   position: absolute;
   height: 6.05%;
   width: 3.9%;
@@ -1519,13 +1519,13 @@
   bottom: 92.95%;
   left: 96.1%;
 }
-.arrowLeft1,
-.arrowLeftItem {
+.arrow-left-item,
+.arrow-left1 {
   position: absolute;
   transform: rotate(180deg);
   transform-origin: 0 0;
 }
-.arrowLeftItem {
+.arrow-left-item {
   height: 100%;
   width: 100%;
   top: 0;
@@ -1535,7 +1535,7 @@
   border-radius: var(--br-6xs);
   background-color: var(--text-color-navy);
 }
-.arrowLeft1 {
+.arrow-left1 {
   height: 6.05%;
   width: 3.9%;
   top: 1.01%;
@@ -1543,7 +1543,7 @@
   bottom: 92.95%;
   left: 94.16%;
 }
-.liveAuctions1 {
+.live-auctions1 {
   position: absolute;
   height: 8.06%;
   width: 37.18%;
@@ -1557,14 +1557,14 @@
   display: inline-block;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.liveAuctions {
+.live-auctions {
   position: relative;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   width: 1232px;
   height: 716px;
   flex-shrink: 0;
 }
-.liveAuctionsWrapper {
+.live-auctions-wrapper {
   position: absolute;
   top: 1039px;
   left: 94px;
@@ -1614,7 +1614,7 @@
   line-height: 32px;
   display: inline-block;
 }
-.currentBid24 {
+.current-bid24 {
   position: absolute;
   height: 8.47%;
   width: 39.31%;
@@ -1625,13 +1625,13 @@
   font-size: var(--paragraph-bold-body-16-size);
   font-family: var(--paragraph-bold-body-16);
 }
-.robertFox {
+.robert-fox {
   position: absolute;
   top: 12.5%;
   left: 32.89%;
   line-height: 24px;
 }
-.imagePlaceholderIcon25 {
+.image-placeholder-icon25 {
   position: absolute;
   height: 100%;
   width: 26.32%;
@@ -1669,7 +1669,7 @@
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
-.imagePlaceholderIcon26 {
+.image-placeholder-icon26 {
   position: absolute;
   height: 61.07%;
   width: 92%;
@@ -1683,8 +1683,8 @@
   max-height: 100%;
 }
 .button27,
-.nft3,
-.nft4 {
+.nft-3,
+.nft-4 {
   position: absolute;
   height: 91.27%;
   width: 25.96%;
@@ -1695,7 +1695,7 @@
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .button27,
-.nft4 {
+.nft-4 {
   right: 28.88%;
   left: 45.17%;
 }
@@ -1740,20 +1740,20 @@
   justify-content: flex-start;
   color: var(--text-color-white);
 }
-.loremIpsumIs,
-.wrappedOrdinals {
+.lorem-ipsum-is,
+.wrapped-ordinals {
   position: absolute;
   left: 0;
   display: inline-block;
 }
-.loremIpsumIs {
+.lorem-ipsum-is {
   width: 39.45%;
   top: 57.27%;
   line-height: 28px;
   font-family: var(--paragraph-bold-body-16);
   color: var(--text-color-in-field);
 }
-.wrappedOrdinals {
+.wrapped-ordinals {
   width: 37.64%;
   top: 13.17%;
   font-size: var(--heading-bold-h1-72-size);
@@ -1770,7 +1770,7 @@
   height: 653px;
   flex-shrink: 0;
 }
-.heroWrapper {
+.hero-wrapper {
   position: absolute;
   top: 196px;
   left: calc(50% - 686px);
@@ -1810,7 +1810,7 @@
   left: 0;
   line-height: 28px;
 }
-.arrowChevronDown {
+.arrow-chevron-down {
   position: absolute;
   top: 2px;
   left: 91px;
@@ -1825,7 +1825,7 @@
   width: 115px;
   height: 28px;
 }
-.artistCollectors {
+.artist-collectors {
   position: absolute;
   top: 2px;
   left: 385px;
@@ -1868,7 +1868,7 @@
   font-size: var(--paragraph-reguler-body-16-size);
   color: var(--text-color-in-field);
 }
-.logo1Icon1 {
+.logo-1-icon1 {
   position: absolute;
   width: 17.92%;
   top: 20px;
