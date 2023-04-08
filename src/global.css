@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
-
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@600&display=swap");
 @font-face {
   font-family: "Good Times";
   src: url("/public/good timing bd.otf");
@@ -25,40 +25,63 @@ body {
 :root {
   /* fonts */
   --paragraph-bold-body-16: Roboto;
-  --heading-bold-h1-72: "Good Times";
+  --font-poppins: Poppins;
+  --font-roboto-flex: "Roboto Flex";
   --heading-reguler-h6-16: "Good Timing";
+  --heading-bold-h3-48: "Good Times";
   --font-noto-sans-jp: "Noto Sans JP";
 
   /* font sizes */
   --paragraph-bold-body-16-size: 20px;
   --paragraph-reguler-body-16-size: 16px;
-  --heading-bold-h1-72-size: 72px;
+  --font-size-2xl-4: 21.4px;
+  --font-size-mini: 15px;
+  --font-size-sm-9: 13.9px;
+  --font-size-4xl-6: 23.6px;
   --heading-bold-h5-24-size: 24px;
-  --paragraph-bold-caption-14-size: 14px;
   --heading-bold-h3-48-size: 48px;
+  --paragraph-bold-caption-14-size: 14px;
 
   /* Colors */
   --text-color-navy: #0a0b56;
   --text-color-white: #fff;
   --text-color-in-field: #ccc;
+  --color-lime: #24ff00;
   --other-background: rgba(6, 19, 45, 0.25);
-  --bright-blue: #41bafe;
-  --color: rgba(65, 186, 254, 0.2);
-  --text-color-disable: #e6e6e6;
+  --color-gray-100: rgba(255, 255, 255, 0.1);
+  --color-gray-200: rgba(255, 255, 255, 0.33);
+  --color-lavender: #d2e7ff;
   --primary-70: rgba(163, 68, 255, 0.7);
   --primary-50: rgba(163, 68, 255, 0.5);
+  --bright-blue: #41bafe;
+  --color: rgba(65, 186, 254, 0.2);
   --primary-10: rgba(235, 243, 255, 0.25);
   --color-black: #000;
+
+  /* Gaps */
+  --gap-2xl-4: 21.4px;
+  --gap-23xl-8: 42.8px;
+  --gap-7xs-4: 5.4px;
 
   /* Paddings */
   --padding-xs: 12px;
   --padding-13xl: 32px;
+  --padding-2xl-4: 21.4px;
+  --padding-base-1: 16.1px;
+  --padding-13xl-1: 32.1px;
+  --padding-9xs-2: 3.2px;
   --padding-base: 16px;
   --padding-21xl: 40px;
   --padding-5xs: 8px;
 
   /* border radiuses */
   --br-5xs: 8px;
-  --br-base: 16px;
+  --br-base-1: 16.1px;
+  --br-2xl-4: 21.4px;
+  --br-45xl-2: 64.2px;
+  --br-88xl-1: 107.1px;
+  --br-33xl-5: 52.5px;
+  --br-2xs-7: 10.7px;
   --br-6xs: 7px;
+  --br-base: 16px;
 }
